@@ -1,0 +1,50 @@
+[
+    {
+        "shoe_id": 1,
+        "name": "Nike Air Jordan 1 High",
+        "colorway": "Varsity Red",
+        "size": 11,
+        "price": 160,
+        "pic_url": "https://static.nike.com/a/images/w_1280,q_auto,f_auto/kj11ctakaqzca1hrkbkh/air-jordan-1-retro-chicago-release-date.jpg"
+    } ,
+    {
+        "shoe_id": 2,
+        "name": "Nike Cortez",
+        "colorway": "Black/White-Gym Red",
+        "size": 12,
+        "price": 100,
+        "pic_url": "https://image-cdn.hypb.st/https%3A%2F%2Fs3.store.hypebeast.com%2Fmedia%2Fimage%2F1d%2F6d%2FNIKE-CORTEZ-KENNY-III-C17-068-1-cdc17.jpg?fit=max&w=720&q=90"
+    },
+    {
+        "shoe_id": 3,
+        "name": "Nike Air Jordan Nigel 4RM",
+        "colorway": "Oxidized Green",
+        "size": 10,
+        "price": 150,
+        "pic_url": "https://www.nicekicks.com/files/2024/07/Nigel-Sylvester-x-Air-Jordan-4-RM-Fence-Green-HF4334-300-04.jpg"
+    },
+    {
+        "shoe_id": 4,
+        "name": "Nike Air Jordan 1 High",
+        "colorway": "Varsity Red",
+        "size": 11,
+        "price": 160,
+        "pic_url": "https://static.nike.com/a/images/w_1280,q_auto,f_auto/kj11ctakaqzca1hrkbkh/air-jordan-1-retro-chicago-release-date.jpg"
+    } ,
+    {
+        "shoe_id": 5,
+        "name": "Nike Cortez",
+        "colorway": "Black/White-Gym Red",
+        "size": 12,
+        "price": 100,
+        "pic_url": "https://image-cdn.hypb.st/https%3A%2F%2Fs3.store.hypebeast.com%2Fmedia%2Fimage%2F1d%2F6d%2FNIKE-CORTEZ-KENNY-III-C17-068-1-cdc17.jpg?fit=max&w=720&q=90"
+    },
+    {
+        "shoe_id": 6,
+        "name": "Nike Air Jordan Nigel 4RM",
+        "colorway": "Oxidized Green",
+        "size": 10,
+        "price": 150,
+        "pic_url": "https://www.nicekicks.com/files/2024/07/Nigel-Sylvester-x-Air-Jordan-4-RM-Fence-Green-HF4334-300-04.jpg"
+    }
+]
