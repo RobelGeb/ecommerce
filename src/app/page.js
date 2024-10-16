@@ -1,14 +1,14 @@
 'use client'
-import Cart from "./components/Cart";
-import Stock from "./components/Stock"
-import Image from "next/image";
+import { useState } from "react";
 
 export default function Home() {
-
+  
   return (
-    <div className="*:w-full">
-      <Stock />
-      <Cart />
+    <div className="h-full w-full flex flex-col items-center justify-center">
+      <form className="flex flex-col">
+        <input placeholder="user" className=""></input>
+        <input placeholder="password"></input>
+      </form>
     </div>
   );
 }
